@@ -1,0 +1,30 @@
+﻿body {
+    background-image: url("image/space-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-x: center;
+    margin: auto;
+}
+
+h1 {
+    position: absolute;
+    right:0;
+    left:0;
+    color:white;
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+}
+
+p {
+    background-color: azure;
+}
+
+canvas {
+    position:absolute;
+    top:0;bottom:0;right:0;left:0;
+    margin:auto;
+}
+
